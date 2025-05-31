@@ -1,0 +1,11 @@
+# Ignorar la carpeta del entorno virtual de Python
+venv/
+
+# Ignorar las carpetas de caché de Python
+__pycache__/
+
+# Ignorar archivos de Python compilados
+*.pyc
+
+# Ignorar archivos de metadatos del sistema operativo macOS
+.DS_Store
